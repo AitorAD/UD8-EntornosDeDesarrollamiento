@@ -1,4 +1,4 @@
-package algoritmes;
+package es.iesmz.ed.algoritmes;
 
 /**
  * Clase Hyperpar

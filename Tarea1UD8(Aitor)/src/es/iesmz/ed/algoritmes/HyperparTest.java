@@ -1,4 +1,4 @@
-package algoritmes;
+package es.iesmz.ed.algoritmes;
 
 import org.junit.jupiter.api.Test;
 
