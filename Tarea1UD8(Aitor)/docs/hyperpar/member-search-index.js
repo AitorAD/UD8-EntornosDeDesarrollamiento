@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"algoritmes","c":"Hyperpar","l":"esHyperPar()"},{"p":"algoritmes","c":"Hyperpar","l":"getNum()"},{"p":"algoritmes","c":"Hyperpar","l":"Hyperpar(long)","u":"%3Cinit%3E(long)"},{"p":"algoritmes","c":"Hyperpar","l":"setNum(long)"}];updateSearchResults();
