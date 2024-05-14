@@ -9,7 +9,8 @@ public class Hyperpar {
     private long num;
 
     /**
-     * Constructor por defecto
+     * Constructor por al que le pasas un numero
+     * @param num
      */
     public Hyperpar(long num) {
         this.num = num;
