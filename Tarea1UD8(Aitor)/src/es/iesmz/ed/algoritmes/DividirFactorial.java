@@ -54,8 +54,9 @@ public class DividirFactorial {
     }
 
     /**
-     * Metodo que multiplica la diferencia de numeros entre numerador y denominador
-     * @return Devuelve la division de 2 numeros factoriales
+     * Metodo que multiplica la diferencia de numeros entre numerador y denominador. Si el denominador es mayor o igual
+     * que el numerador, devuelve 1.
+     * @return Devuelve la division de 2 numeros factoriales. 1 si el denominador es mayor o igual que el numerador.
      */
     public int divisio() {
         int resultado = 1;
